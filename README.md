@@ -1,6 +1,6 @@
 # Personal Portfolio Website Html Css Javascript
 
-live link :- https://dikshant16.github.io/portfolio/
+live link :- https://ashuraa16.github.io/portfolio/ 
 
 What has been implemented :
 - Responsive Layout
